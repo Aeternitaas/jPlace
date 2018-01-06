@@ -1,5 +1,5 @@
 # jPlace
-A Java-based peer-to-peer recreation of reddit's /r/place.
+A Java-based recreation of reddit's /r/place.
 
 ## How to host:
 * Server-side: compile src/place/server/PlaceServer.java
