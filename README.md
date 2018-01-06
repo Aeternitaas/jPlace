@@ -1,4 +1,4 @@
-# place
+# jPlace
 A Java-based peer-to-peer recreation of reddit's /r/place.
 
 ## How to host:
